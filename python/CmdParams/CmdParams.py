@@ -1,3 +1,8 @@
+"""
+Use: python CmdParams.py name="Bryan" lastName="Contreras"
+Description: Get all params or any param by key from the system params
+"""
+
 from sys import argv
 
 
